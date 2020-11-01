@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/assets/levels/base_level.tmx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/assets/levels/level_1.json" afterDir="false" />
@@ -84,7 +85,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -143,6 +144,7 @@
       <workItem from="1591403271537" duration="12000" />
       <workItem from="1591403308120" duration="49000" />
       <workItem from="1604244742266" duration="12091000" />
+      <workItem from="1604256977088" duration="480000" />
     </task>
     <servers />
   </component>
