@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72f5d719-5804-4bc2-ba18-11e876ddc160" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/base_level.tmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/levels/level_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/scenes/BootScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/scenes/EndScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/scenes/LevelScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/scenes/MainScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/Enemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/UI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/animationSetUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/createLevel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/getMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/particleSetUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts/utilities/populateLevel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blood.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/coin1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/coin1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dust.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/dust.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/key1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/key1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/base_level.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/levels/level_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/life1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/life1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/octo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/oubliette-tileset-extruded.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/oubliette-tileset-extruded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/theme.wav" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/theme.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cpFek455UFz5JfkoTh1gPTXBuj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lou Tigroudja\WebstormProjects\forgotten\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lou Tigroudja\WebstormProjects\forgotten\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72f5d719-5804-4bc2-ba18-11e876ddc160" name="Default Changelist" comment="" />
+      <created>1591217724932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591217724932</updated>
+      <workItem from="1591217727187" duration="1261000" />
+      <workItem from="1591403271537" duration="12000" />
+      <workItem from="1591403308120" duration="49000" />
+      <workItem from="1604244742266" duration="12091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1604245496766">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1920.-4.1920.1050@0.0.1920.1050" timestamp="1604245496766" />
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom" timestamp="1604256847969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.-4.1920.1050@0.0.1920.1050" timestamp="1604256847969" />
+    <state width="1876" height="285" key="GridCell.Tab.0.center" timestamp="1604256847969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.-4.1920.1050@0.0.1920.1050" timestamp="1604256847969" />
+    <state width="1876" height="285" key="GridCell.Tab.0.left" timestamp="1604256847969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.-4.1920.1050@0.0.1920.1050" timestamp="1604256847969" />
+    <state width="1876" height="285" key="GridCell.Tab.0.right" timestamp="1604256847969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.-4.1920.1050@0.0.1920.1050" timestamp="1604256847969" />
+  </component>
+</project>
